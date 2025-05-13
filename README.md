@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Millon Daniel .... Junior web and software developer...
-<img src="[https://media.licdn.com/dms/image/v2/D4E22AQEK3Mdco0laKA/feedshare-shrink_800/B4EZW4wq4lHcAk-/0/1742561522300?e=1745452800&v=beta&t=nyATRETw0YCzbCRUU6Mqd3g9EjP8o8qVp0PhJasyvzk](https://www.canva.com/design/DAGiXHfZHGQ/ZE745OU-JqfUrXuc9wNnLA/edit)" width="1500">
+<img src="https://www.canva.com/design/DAGiXHfZHGQ/ZE745OU-JqfUrXuc9wNnLA/edit" width="1500">
 
 <br><br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vue,figma,github,line=3)](https://skillicons.dev)
