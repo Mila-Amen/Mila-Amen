@@ -5,7 +5,7 @@
 
 
 [![Mila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mila-Amen)](https://github.com/Mila-Amen/github-readme-stats)
-- 🔭 I’m currently working on (https://github.com/Mila-Amen/BB-Garage)
+- 🔭 I’m currently working on (https://github.com/Mila-Amen/My-Portfolio)
 - 🌱 I’m currently learning web and software development at https://digitalcareerinstitute.org/
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
